@@ -1,0 +1,21 @@
+{
+  "event0": {
+    "event_name": "Graduation",
+    "event_image": "event_images/grad.jpg",
+    "event_year": "2017",
+    "event_month": "6",
+    "event_day": "29",
+    "background_colour": "#FFFFFF",
+    "banner_colour": "#FF001F"
+  },
+
+  "event1": {
+    "event_name": "Arts Night",
+    "event_image": "event_images/artsnight.jpg",
+    "event_year": "2017",
+    "event_month": "5",
+    "event_day": "20",
+    "background_colour": "#1D8778",
+    "banner_colour": "#1D8778"
+  }
+}
